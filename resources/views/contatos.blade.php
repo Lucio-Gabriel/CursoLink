@@ -16,9 +16,7 @@
     </style>
 
     @include('components.navbar')
-<h1>Página de Cursos</h1>
-
-
+    <h1>Página de contatos</h1>
 
 </body>
 </html>

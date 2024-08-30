@@ -15,4 +15,12 @@ class SiteController extends Controller
         return view('cursos');
     }
 
+    public function sobre(){
+        return view('sobre');
+    }
+
+    public function contatos(){
+        return view('contatos');
+    }
+
 }
